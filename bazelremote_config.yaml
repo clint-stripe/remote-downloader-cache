@@ -1,0 +1,7 @@
+---
+dir: tmp/cache
+max_size: 1
+
+http_address: 127.0.0.1:9091
+grpc_address: 127.0.0.1:9092
+experimental_remote_asset_api: true
